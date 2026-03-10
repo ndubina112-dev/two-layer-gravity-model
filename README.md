@@ -23,7 +23,7 @@
 
 If you use this work in your research, please cite the Zenodo record (DOI will be assigned upon the first release). The concept DOI for the project is:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+https://doi.org/10.5281/zenodo.18922993
 
 *(Replace the DOI with the actual one after upload.)*
 
