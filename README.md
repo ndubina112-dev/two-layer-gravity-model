@@ -1,13 +1,13 @@
 ## Article Overview
 
 1.  **Article 1:** *Two‑Layer Gravity Model: From Atomic Calibration to Galaxy Rotation Curves and Cosmology*
-    – Introduces the model, calibrates microscopic parameters ($\Gamma_0,\ell_0,lpha$) using diatomic molecules, fits galactic rotation curves (SPARC data), performs MCMC cosmological analysis, and summarises all parameters in Appendix A.
+    – Introduces the model, calibrates microscopic parameters ($\Gamma_0,\ell_0,alpha$) using diatomic molecules, fits galactic rotation curves (SPARC data), performs MCMC cosmological analysis, and summarises all parameters in Appendix A.
 
 2.  **Article 2:** *Finsler Geometry and the Screening Mechanism: Unifying Micro and Macro Scales*
     – Provides the theoretical Lagrangian (scalar + vector fields) and shows how the phenomenological screening relation emerges; discusses a geometric interpretation via the Finsler–Randerts metric.
 
 3.  **Article 3:** *Proton Mass and Fundamental Constants of Gravity: An Empirical Observation*
-    – Reports the empirical dimensionless parameter $K = m_p \Gamma_0/(lpha^2 c^2 \ell_0) = 4.52	imes10^{-4}$ linking the proton mass to the atomic calibration constants.
+    – Reports the empirical dimensionless parameter $K = m_p \Gamma_0/(alpha^2 c^2 \ell_0) = 4.52	imes10^{-4}$ linking the proton mass to the atomic calibration constants.
 
 4.  **Article 4:** *Testable Predictions of the Two‑Layer Gravity Model*
     – Gives quantitative predictions for the Pioneer anomaly, wide binary stars, the cosmic dipole, early JWST galaxies, dwarf galaxies, and laboratory tests at micrometre scales.
