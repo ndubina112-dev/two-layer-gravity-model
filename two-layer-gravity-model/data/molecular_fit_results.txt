@@ -1,0 +1,21 @@
+
+--- Results from Model C with C6 inclusion ---
+Optimal Parameters (Model C):
+  ℓ₀ = 1.00e-10 m
+  α  = 0.300
+  Коэффициент C6 = -1.00e-75 (C6 = Коэффициент C6 * Z_eff^2)
+
+Regression (Model C):
+  logΓ = 25.800 - -1.970 logZ
+  Γ₀ = 6.31e+25 м³/(кг·с²)
+  Показатель степени n = -1.970
+
+--- Results from Linear Regression and Bootstrap ---
+Fitting Results:
+  log Γ₀ = 29.446 ± 0.083
+  показатель n = -5.995 ± 0.068
+  Γ₀ = 10^29.446 = 2.79e+29 м³/(кг·с²)
+
+Bootstrap-оценка:
+  log Γ₀ = 29.434 ± 0.083
+  n     = -5.987 ± 0.062
